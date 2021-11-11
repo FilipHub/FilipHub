@@ -1,12 +1,17 @@
-## 👋 Hi, I’m Filip Petrusevski
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Laravel and React
-- 📫 How to reach me [LinkedIn]
+### Hi there 👋, my name is Filip
+#### I am a Web Developer
+Soon to be graduated Computer Science Engineer and Full-stack developer eager to start my professional journey.
+
+I have great interest and curiosity in everything IT-related.
+
+Skills: Laravel / PHP/ C++ / JS / HTML / CSS / 
+
+- 🌱 I’m currently learning React 
+- 🤔 I’m looking for help with React 
+- 💬 Ask me about anything 
+- 📫 How to reach me: thepetrusevski@gmail.com 
+- 😄 Pronouns: he/him 
 
 
-[LinkedIn]: https://www.linkedin.com/in/filip-petrushevski-/
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FilipHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/filip-petrushevski-//)  
 
-<!---
-FilipHub/FilipHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
