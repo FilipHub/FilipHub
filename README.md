@@ -4,7 +4,7 @@ Soon to be graduated Computer Science Engineer and Full-stack developer eager to
 
 I have great interest and curiosity in everything IT-related.
 
-Skills: Laravel / PHP/ C++ / JS / HTML / CSS / 
+Skills: Laravel / PHP / C++ / JS / HTML / CSS / 
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with React 
