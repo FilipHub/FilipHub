@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Filip Petrusevski
+## 👋 Hi, I’m Filip Petrusevski
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning Laravel and React
 - 📫 How to reach me [LinkedIn]
