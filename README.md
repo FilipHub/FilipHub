@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Filip
-#### I am a Web Developer
-Soon to be graduated Computer Science Engineer and Full-stack developer eager to start my professional journey.
+#### I am a Junior Developer
+Soon to be graduated Computer Science Engineer and Full-stack developer.
 
 I have great interest and curiosity in everything IT-related.
 
-Skills: Laravel / PHP / Django / Python / C++ / JS / HTML / CSS / Blender 
+Skills: Django / Flask / Python / Laravel / PHP / JavaScruot / HTML / CSS / Blender 
 
-- 🌱 I’m currently learning React 
-- 🤔 I’m looking for help with React 
+- 🌱 I’m currently learning using Python in Telecom 
+- 🤔 I’m looking for help with Python in Telecommunications 
 - 💬 Ask me about anything 
 - 📫 How to reach me: thepetrusevski@gmail.com 
 
