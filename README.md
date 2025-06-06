@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Filip
 #### I am an Associate Software Engineer
-Computer Science Engineer and Associate Software Engineer focused on Operations Support Systems (OSS) development within the Telecom sector.
+Computer Science Engineer focused on Operations Support Systems (OSS) development within the Telecom sector.
 
 I have great interest and curiosity in everything IT-related.
 
